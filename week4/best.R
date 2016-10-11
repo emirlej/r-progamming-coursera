@@ -84,3 +84,8 @@ best <- function(state, outcome) {
         stop("Invalid state")
     }    
 }
+
+# Quiz questions
+best("SC", "heart attack")
+best("NY", "pneumonia")
+best("AK", "pneumonia")
