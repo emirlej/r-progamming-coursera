@@ -112,3 +112,6 @@ rankhospital("MN", "heart attack", 5000) # Should return NA
 
 # Quiz questions
 rankhospital("NC", "heart attack", "worst")
+rankhospital("WA", "heart attack", 7)
+rankhospital("TX", "pneumonia", 10)
+rankhospital("NY", "heart attack", 7)
