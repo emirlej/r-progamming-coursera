@@ -241,3 +241,5 @@ ModelManifest.xml
 # FAKE - F# Make
 .fake/
 *.Rhistory
+*.csv
+week4/ProgAssignment3v2.pdf
